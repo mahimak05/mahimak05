@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/9d/11/4f/9d114f8083e52974806ca905138a9eb3.gif)](https://mahimak05.io)
+[![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)](https://mahimak05.io)
 <h1 align="center">Hi 👋, I'm MahimaK05</h1>
 <h3 align="center">A student at Stony Brook University studying Computer Engineering</h3>
 
