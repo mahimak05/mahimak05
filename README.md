@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)](https://mahimak05.io)
-<h1 align="center">Hi 👋, I'm MahimaK05</h1>
+<h1 align="center">Hi 👋, I'm Mahima K</h1>
 <h3 align="center">A student at Stony Brook University studying Computer Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahimak05&label=Profile%20views&color=0e75b6&style=flat" alt="mahimak05" /> </p>
